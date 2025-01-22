@@ -43,7 +43,7 @@ El proyecto incluye la api y la base de datos de almacenamiento. La api es REST,
 
 Se pide específicamente el uso de [React](https://facebook.github.io/react/). versión 17+. Dará un valor adicional, aunque no es obligatorio, el uso además de API-Context para la administración de estados en la aplicación. Adicionalmente se evaluarán los siguientes puntos:
 
-1. Utilización de patrones, buenas prácticas en el código y arquitectura acorde
+1. Utilización de patrones, buenas prácticas en el código y arquitectura acorde.
 2. Documentación en el código
 3. Diseño lo más similar posible a las imágenes mostradas más arriba
 4. Tiempo en realizar la tarea
